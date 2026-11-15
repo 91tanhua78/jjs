@@ -308,7 +308,7 @@ local PETS = {
     },
 }
 
-local MAX_PET_SLOTS = 12
+local MAX_PET_SLOTS = 13
 local TARGET_REP_SPEED = 100
 
 local function applyPetLoadout(selected, isCurrent)
