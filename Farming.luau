@@ -300,6 +300,12 @@ local PETS = {
         durability = 0,
         rebirth = 0,
     },
+    ["Eclipse Devourer"] = {
+        repSpeed = 0,
+        strength = 0,
+        durability = 0,
+        rebirth = 2,
+    },
 }
 
 local MAX_PET_SLOTS = 12
