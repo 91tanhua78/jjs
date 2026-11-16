@@ -306,12 +306,6 @@ local PETS = {
         durability = 0,
         rebirth = 2,
     },
-    ["Omega Emperor"] = {
-        repSpeed = 0,
-        strength = 50,
-        durability = 0,
-        rebirth = 0,
-    },
 }
 
 local MAX_PET_SLOTS = 13
