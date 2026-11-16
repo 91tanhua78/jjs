@@ -309,7 +309,7 @@ local PETS = {
     ["Omega Emperor"] = {
         repSpeed = 0,
         strength = 50,
-        durability = ,
+        durability = 0,
         rebirth = 0,
     },
 }
